@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jxnny0
-- 👀 I’m interested in Star Wars 
+- 👀 I’m interested in art, cats, and all things Star Wars
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on website deisgns
 
